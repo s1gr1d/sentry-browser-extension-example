@@ -13,6 +13,6 @@ This application uses [pnpm](https://pnpm.io/installation). Run the application 
 
 Load the unpacked extension (the `dist` directory) into the extensions directory of your browser.
 
-- Chrome: [How-to](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked)).
+- Chrome: [How-to](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked).
 
 - Firefox: [How-to](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension#trying_it_out)
